@@ -1,0 +1,11 @@
+[
+null,
+{"id":1,"battlerName":"玥玥战斗","characterIndex":0,"characterName":"玥玥走路","classId":3,"equips":[3,0,2,3,4],"faceIndex":1,"faceName":"1","traits":[],"initialLevel":15,"maxLevel":99,"name":"玥玥","nickname":"","note":"","profile":""},
+{"id":2,"battlerName":"Actor2_1","characterIndex":4,"characterName":"People2","classId":1,"equips":[0,0,0,0,0],"faceIndex":4,"faceName":"People2","traits":[],"initialLevel":1,"maxLevel":99,"name":"祝工","nickname":"","note":"","profile":""},
+{"id":3,"battlerName":"","characterIndex":0,"characterName":"！！！","classId":1,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"1","traits":[],"initialLevel":1,"maxLevel":99,"name":"萨斯","nickname":"","note":"","profile":""},
+{"id":4,"battlerName":"","characterIndex":1,"characterName":"！！！","classId":1,"equips":[0,0,0,0,0],"faceIndex":4,"faceName":"1","traits":[],"initialLevel":1,"maxLevel":99,"name":"逆理","nickname":"","note":"","profile":""},
+{"id":5,"battlerName":"","characterIndex":0,"characterName":"Actor2","classId":1,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"Actor2","traits":[],"initialLevel":1,"maxLevel":99,"name":"冷心","nickname":"","note":"","profile":""},
+{"id":6,"battlerName":"","characterIndex":4,"characterName":"！！！","classId":1,"equips":[0,0,0,0,0],"faceIndex":6,"faceName":"1","traits":[],"initialLevel":1,"maxLevel":99,"name":"盐盐","nickname":"","note":"","profile":""},
+{"id":7,"battlerName":"","characterIndex":3,"characterName":"！！！","classId":1,"equips":[0,0,0,0,0],"faceIndex":2,"faceName":"1","traits":[],"initialLevel":1,"maxLevel":99,"name":"灰狼","nickname":"","note":"","profile":""},
+{"id":8,"battlerName":"","characterIndex":2,"characterName":"！！！","classId":1,"equips":[0,0,0,0,0],"faceIndex":5,"faceName":"1","traits":[],"initialLevel":1,"maxLevel":99,"name":"老实人","nickname":"","note":"","profile":""}
+]
